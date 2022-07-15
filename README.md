@@ -5,6 +5,4 @@ A jupyter project for exploratory data analysis and deep learning cluster with b
 
 ## References
 本文引用内容如下：
-+ GitHub - liulu1Q84/Data-Visualization: Data Visualization with Python
-
-+ https://github.com/liulu1Q84/Data-Visualization
++ GitHub - liulu1Q84/Data-Visualization: Data Visualization with Python - https://github.com/liulu1Q84/Data-Visualization
